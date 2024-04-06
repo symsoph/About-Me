@@ -3,9 +3,6 @@
 > Here is my ~~favorite~~ photo of the week! 
 > ![Screenshot of git commands via the Windows Command Prompt.](./screenshots/lab-1-git-command_prompt.png) Description of Image <sub>Screenshot of git commands via the Windows Command Prompt.</sub>
 
-> [!IMPORTANT]
-> Key ~~personal~~ information about me BELOW
-
 ## The _Real_ Me<sup>HAha</sup>
 Hello! I'm Sofia, striving to be a **game dev**, because I love all the ways the arts come together with technology to create an interactive, memorable, and enjoyable product. Really, I am chasing a career that allows me to express my creativity as an artist and musician and to think logically.  Hopefully, it's game dev but I am learning about other career paths like those in sound engineering and UI/UX design. 
 > **_We shall see._**
