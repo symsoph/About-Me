@@ -10,7 +10,8 @@
 Hello! I'm Sofia, striving to be a **game dev**, because I love all the ways the arts come together with technology to create an interactive, memorable, and enjoyable product. Really, I am chasing a career that allows me to express my creativity as an artist and musician and to think logically.  Hopefully, it's game dev but I am learning about other career paths like those in sound engineering and UI/UX design. 
 > **_We shall see._**
 
-[This game changed in my life circa 2019.]()
+[This game changed in my life circa 2019.](/joke.md)
+[![KH1]((/kh1-coverart.webp))]
 
 ### A List of My Favorite Things  
 Let's `git` it! 
@@ -31,7 +32,7 @@ Most Frequented Musicians in my Playlists (in no particular order)[^1]:
 1. [BTS](https://www.youtube.com/watch?v=a4YwJCZRh5M)
 2. [Utada Hikaru](https://www.youtube.com/watch?v=Bv7TlgwukL8)
 3. [UMI](https://www.youtube.com/watch?v=jH1mO5lVkW4)
-4. [Yoko Shimomura](/kh1-coverart.webp)
+4. [Yoko Shimomura/Project Destati](https://www.youtube.com/watch?v=6JbxlYRPbZg)
 
 [^1]: I linked my favorite songs for each artist.
 <!--- So MUCH FUN ..too many songs to choose from--->
