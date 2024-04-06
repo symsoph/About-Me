@@ -11,7 +11,7 @@ Hello! I'm Sofia, striving to be a **game dev**, because I love all the ways the
 > **_We shall see._**
 
 [This game changed in my life circa 2019.](/joke.md)
-[![KH1]((/kh1-coverart.webp))]
+![KH1](./kh1-coverart.webp)
 
 ### Simply a Few of My Favorite Things  
 Let's `git` it! 
