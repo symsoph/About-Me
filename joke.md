@@ -1,1 +1,1 @@
-[![A mushroom-head robot](/click-image.png 'KH1-haha')](https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game))
+[![A mushroom-head robot](./click-image.png 'KH1-haha')](https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game))
